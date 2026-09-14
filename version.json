@@ -1,8 +1,8 @@
 {
-      "version": "4.0",
-      "version_name": "V4.0 畅洁版",
-      "download_url": "",
-      "release_notes": "当前为首发版本",
-      "force_update": false,
-      "publish_date": "2026-09-13"
+        "version": "4.1",
+        "version_name": "V4.1",
+        "download_url": "https://github.com/chen5300766/changxiang-toolkit/releases/download/v4.1/V4.1.zip",
+        "release_notes": "深度清理分组、音乐视频缓存、软件彻底卸载、单页切换",
+        "force_update": false,
+        "publish_date": "2026-09-14"
 }
