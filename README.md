@@ -33,3 +33,7 @@
 
 - 绿色软件，不写注册表，不弹广告
 - 操作记录保存在 %APPDATA%畅享工具箱- 自动更新功能已内置
+
+## 💬 反馈建议
+
+使用中遇到问题或有建议，欢迎到 [Issues](https://github.com/chen5300766/changxiang-toolkit/issues) 反馈，我会尽快回复。
