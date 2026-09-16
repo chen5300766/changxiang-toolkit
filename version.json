@@ -1,8 +1,9 @@
+
+
 {
-        "version": "4.1",
-        "version_name": "V4.1",
-        "download_url": "https://github.com/chen5300766/changxiang-toolkit/releases/download/v4.1/V4.1.zip",
-        "release_notes": "深度清理分组、音乐视频缓存、软件彻底卸载、单页切换",
-        "force_update": false,
-        "publish_date": "2026-09-14"
+  "version": "4.1",
+  "version_name": "V4.1",
+  "download_url": "https://github.com/chen5300766/changxiang-toolkit/releases/download/v4.1/畅享电脑工具箱V4.1.zip",
+  "release_url": "https://github.com/chen5300766/changxiang-toolkit/releases/tag/v4.1",
+  "update_message": "V4.1更新：界面优化，支持Win10/Win11高DPI，修复显示问题"
 }
