@@ -1,7 +1,7 @@
 {
     "version": "4.1",
     "version_name": "V4.1",
-    "download_url": "https://github.com/chen5300766/changxiang-toolkit/releases/download/v4.1/V4.1.zip",
+    "download_url": "https://gh-proxy.com/https://github.com/chen5300766/changxiang-toolkit/releases/download/v4.1/V4.1.zip",
     "release_url": "https://github.com/chen5300766/changxiang-toolkit/releases/tag/v4.1",
     "update_message": "V4.1更新：界面优化，支持Win10/Win11高DPI，修复显示问题"
 }
